@@ -98,4 +98,7 @@ Deploy on Render / Hugging Face / Streamlit Cloud
 ---
 
 👨‍💻 Author
-
+👤 Kousik Chakraborty
+📧 Email: www.kousik.c.in@gmail.com
+🔗 GitHub Profile: https://github.com/iamkousikc-create18
+🔗 Project Repository: https://github.com/iamkousikc-create18/Sentiment-Analysis
